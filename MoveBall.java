@@ -1,4 +1,4 @@
-/* I "Ahad Mahmood" do verify that the submitted code is my own effort and that I have not copied it 
+/* do verify that the submitted code is my own effort and that I have not copied it 
 from any peer or any internet source that has not been acknowledged. I also understand that if my 
 submission fails the similarity detection, I would be awarded zero marks not only for this submission 
 but the whole evaluation component. */
